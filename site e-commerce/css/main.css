@@ -1,0 +1,37 @@
+.menu li{
+    display:inline;
+  }
+.menu li a{
+    padding:12px 92px;
+    margin-right: -3px ;
+    background-color: #4CBFED;
+    color: white;
+  }
+.menu{
+    margin-left:0px;
+  }
+.menu li a:hover{
+    background-color:rgb(12, 106, 144) ;
+
+}
+.footer {
+    background-color: #4CBFED;
+
+}
+.footer h5{
+    color:white;
+    padding: 0px 40px;
+}
+.sidebar{
+    background-color: #4CBFED;
+    float:right;
+    width:351px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.sidebar h4{
+    color: white;
+    text-align: center;
+
+}
+
